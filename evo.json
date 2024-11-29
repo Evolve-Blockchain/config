@@ -1,0 +1,15 @@
+[{
+		"title": "Evolve Blockchain",
+		"url": "https://evoexplorer.com/",
+		"group": "Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/evolve-blockchain/assets/main/evolve-logo.png"
+	},
+	{
+		"title": "Evolve Blockchain",
+		"url": "https://testnet.evolveblockchain.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/evolve-blockchain/assets/main/evolve-logo.png",
+		"invertIconInDarkMode": true
+	}
+]
